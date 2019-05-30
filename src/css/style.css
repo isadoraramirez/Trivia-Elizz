@@ -1,0 +1,84 @@
+body{
+     background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyyB1K6Pxi3d4Mhr-yhfCBu1U-XqRPxIqd_Njt9trFweOE7HIt');
+}
+
+h1{
+    font-size: 60px;
+    font-family: centuy;
+    text-align: center
+}
+
+.position{
+   font-size: 30px;
+   font-weight: 900;
+   background: #BBA7EA;
+   opacity:.8;
+   padding: 15px;
+   text-align: center;
+   text-align: center;
+   margin: 1 1 10px;
+}
+
+.botones {
+ font-size:15px;
+ font-      family:Arial;
+  color: #fafafa;
+      background:#521C16;
+      width: 160px;
+      height:30px;
+       border-radius: 6px;
+       margin-left: auto;
+       margin-right: auto;
+  
+  }
+.botones:hover {
+      background-color: #ACA47A ;
+      color: white;
+ }
+
+.botn_env {
+ font-size:15px;
+ font-      family:Arial;
+  color: #fafafa;
+      background:#044A6C  ;
+      width: 120px;
+      height:25px;
+       border-radius: 6px;
+       margin-left: auto;
+       margin-right: auto;
+  
+  }
+.botn_env:hover {
+      background-color: #ACA47A ;
+      color: white;
+ }
+
+
+
+.font_table{
+   
+   background-color: #FFC300 ;
+   font-family:Arial;
+  
+}
+
+#table1, #table2{
+    margin: 50px auto;
+    width: 400px auto;
+}
+
+table{
+   
+  text aling: right;
+  border-collapse: collapse;
+  width: 100%;
+   
+  }
+
+ td{
+    padding:15px;
+}
+thead{
+  background-color: #D48A25;
+  color: white;
+}
